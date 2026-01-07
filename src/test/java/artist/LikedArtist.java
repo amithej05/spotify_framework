@@ -8,6 +8,9 @@ public class LikedArtist {
 	public void liked()
 	{
 		System.out.println("ar rahman");
+		System.out.println("br rahman");
+		System.out.println("cr rahman");
+		System.out.println("dr rahman");
 		
 	}
 
