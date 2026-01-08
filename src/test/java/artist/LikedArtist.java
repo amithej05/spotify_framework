@@ -8,7 +8,7 @@ public class LikedArtist {
 	public void liked()
 	{
 		System.out.println("ar rahman");
-		
+		System.out.println("sonu nigam");
 	}
 
 }
