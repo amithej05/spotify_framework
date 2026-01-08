@@ -9,6 +9,7 @@ public class LikedArtist {
 	{
 		System.out.println("ar rahman");
 		System.out.println("sonu nigam");
+		System.out.println("abcd");
 	}
 
 }
