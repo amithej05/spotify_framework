@@ -6,6 +6,7 @@ public class Edit_Artist {
 		// TODO Auto-generated method stub
 		System.out.println("edit artist");
 		System.out.println("kp");
+		System.out.println("abcd");
 	}
 
 }
